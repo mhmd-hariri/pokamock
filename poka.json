@@ -1,27 +1,8 @@
-{"data":[{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":26.56,"workplaceKey":"A0602"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":17.81,"workplaceKey":"A1201"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":14.71,"workplaceKey":"A0302"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":17.55,"workplaceKey":"A1101"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":13.6,"workplaceKey":"A5101"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":0.81,"workplaceKey":"A0901"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":16.02,"workplaceKey":"A0301"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":22.52,"workplaceKey":"A0504"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":35.47,"workplaceKey":"A0201"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":74.4,"workplaceKey":"A5701"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":12.64,"workplaceKey":"A1102"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":18.15,"workplaceKey":"A0101"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":13.83,"workplaceKey":"A0802"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":13.47,"workplaceKey":"A0702"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":17.25,"workplaceKey":"A0601"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":35.57,"workplaceKey":"A0202"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":8.61,"workplaceKey":"A0701"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":22.85,"workplaceKey":"A0503"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":17.09,"workplaceKey":"A0102"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":23.47,"workplaceKey":"A0502"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":12.49,"workplaceKey":"A0801"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":20.7,"workplaceKey":"A0501"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":17.88,"workplaceKey":"A0703"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":16.41,"workplaceKey":"A0303"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":19.53,"workplaceKey":"A0304"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":23.06,"workplaceKey":"A1001"},
-{"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":14.3,"workplaceKey":"A0603"}]}
+{
+  message: [],
+  "data":[
+   {"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":26.56,"workplaceKey":"A0602"},
+   {"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":17.81,"workplaceKey":"A1201"}, 
+   {"plantKey":"TX","productKey":"06F-0309","aggregateKey":"LK","calculatedAt":"2021-11-19T00:00:00.000+00:00","calculatedForKey":"VK","sumTime":14.3,"workplaceKey":"A0603"}
+  ]
+}
